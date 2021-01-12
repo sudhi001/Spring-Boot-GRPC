@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: GRPC-Server
+server:
+  port: 80
+grpc:
+  server:
+    port: 7080

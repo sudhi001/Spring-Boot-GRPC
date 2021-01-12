@@ -1,0 +1,6 @@
+rootProject.name = 'Spring-Boot-GRPC'
+include 'grpc-api'
+include 'api'
+
+
+
